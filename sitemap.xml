@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.victoirevoyages.com/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+      <image:loc>https://www.victoirevoyages.com/google-preview.png</image:loc>
+      <image:title>Victoire Voyages, bespoke luxury travel by Julia Chaltiel</image:title>
+    </image:image>
   </url>
 </urlset>
